@@ -1,3 +1,5 @@
+https://github.com/Parineeta129/Heart-Disease-Dashboard/blob/main/Heart_Disease_Dashboard_snapshot.png
+
 Heart Disease Analysis Dashboard – Power BI
 1. Project Title
 Heart Disease Analysis Dashboard Using Power BI
