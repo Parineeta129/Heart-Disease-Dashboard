@@ -23,10 +23,6 @@ Repository: UCI Machine Learning Repository
 Authors: Davide Chicco and Giuseppe Jurman
 License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Citation:
-Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone.
-BMC Medical Informatics and Decision Making, 20(1), 1–16.
-
 5. Features and Highlights
 KPI Overview
 Survival Rate:
@@ -63,12 +59,12 @@ DAX-based data modeling
 Interactive visual design
 
 9. Design and Content Credits
-Dataset: UCI Machine Learning Repository
+9.1 Dataset: UCI Machine Learning Repository
 Dataset Credit: Heart Failure Clinical Records – UCI Machine Learning Repository Authors: Davide Chicco and Giuseppe Jurman Source: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records License: Creative Commons Attribution 4.0 International (CC BY 4.0) – https://creativecommons.org/licenses/by/4.0/
 Citation: Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making, 20(1), 1-16.
-Background Image: Freepik https://www.freepik.com/free-psd/3d-rendering-realistic-heart_344840361.htm?log-in=google
-Icons: Flaticon 📌 https://www.flaticon.com/free-icon/person_13482183?k=1767535775178&log-in=google, 📌 https://www.flaticon.com/free-icon/avatar_13482193
-Dashboard Background Design: Canva
+9.2 Background Image: Freepik https://www.freepik.com/free-psd/3d-rendering-realistic-heart_344840361.htm?log-in=google
+9.3 Icons: Flaticon 📌 https://www.flaticon.com/free-icon/person_13482183?k=1767535775178&log-in=google, 📌 https://www.flaticon.com/free-icon/avatar_13482193
+9.4 Dashboard Background Design: Canva
 
 11. Conclusion
 This project demonstrates how healthcare data can be transformed into actionable intelligence using business intelligence tools. The dashboard provides valuable insights into patient outcomes and supports informed, data-driven healthcare strategies.
