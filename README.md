@@ -1,5 +1,3 @@
-https://github.com/Parineeta129/Heart-Disease-Dashboard/blob/main/Heart_Disease_Dashboard_snapshot.png
-
 Heart Disease Analysis Dashboard – Power BI
 1. Project Title
 Heart Disease Analysis Dashboard Using Power BI
@@ -71,10 +69,11 @@ Professional dashboard structuring
 9. Design and Content Credits
 Dataset: UCI Machine Learning Repository
 Background Image: Freepik
-Icons: Flaticon 
+Icons: Flaticon
 Dashboard Background Design: Canva
 
 11. Conclusion
 
 This project illustrates how healthcare data can be transformed into actionable intelligence using business intelligence tools. The dashboard supports improved understanding of patient outcomes and enables data-driven healthcare strategies.
 
+Dashboard Preview (https://github.com/Parineeta129/Heart-Disease-Dashboard/blob/main/Heart_Disease_Dashboard_snapshot.png)
