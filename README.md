@@ -31,6 +31,7 @@ Total Survivors
 Total Deaths
 
 6. Analytical Visuals
+
 6.1 Survival Count and Average Serum Creatinine by Age Group:
 Identifies correlation between kidney function and patient survival and reveals age-based outcome patterns.
 
