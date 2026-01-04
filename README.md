@@ -59,6 +59,7 @@ DAX-based data modeling
 Interactive visual design
 
 9. Design and Content Credits
+
 9.1 Dataset: UCI Machine Learning Repository
 Dataset Credit: Heart Failure Clinical Records – UCI Machine Learning Repository Authors: Davide Chicco and Giuseppe Jurman Source: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records License: Creative Commons Attribution 4.0 International (CC BY 4.0) – https://creativecommons.org/licenses/by/4.0/
 Citation: Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making, 20(1), 1-16.
@@ -69,5 +70,5 @@ Citation: Chicco, D., & Jurman, G. (2020). Machine learning can predict survival
 
 9.4 Dashboard Background Design: Canva
 
-11. Conclusion
+10. Conclusion
 This project demonstrates how healthcare data can be transformed into actionable intelligence using business intelligence tools. The dashboard provides valuable insights into patient outcomes and supports informed, data-driven healthcare strategies.
